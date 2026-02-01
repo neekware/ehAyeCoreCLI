@@ -2,7 +2,7 @@
 
 # 🚀 ehAye™ Core CLI
 
-<img src="assets/ehAye.png" alt="ehAye Logo" width="300" />
+<img src="assets/ehaye-logo-t.png" alt="ehAye Logo" width="300" />
 
 **ehAye** *(pronounced "A.I.")* — A name that nods to Canadian "eh?" and Scottish "aye" (yes)
 
@@ -10,7 +10,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Linting: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![Type Checked: mypy](https://img.shields.io/badge/type%20checked-mypy-blue)](https://github.com/python/mypy)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### **🎓 The Best CLI Framework for AI Developers, Researchers & Students**
 
