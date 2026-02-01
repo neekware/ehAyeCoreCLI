@@ -2,7 +2,7 @@
 
 # 🚀 ehAye™ Core CLI
 
-<img src="assets/ehaye-logo-t.png" alt="ehAye Logo" width="300" />
+<img src="assets/ehAye.png" alt="ehAye Logo" width="300" />
 
 **ehAye** *(pronounced "A.I.")* — A name that nods to Canadian "eh?" and Scottish "aye" (yes)
 
