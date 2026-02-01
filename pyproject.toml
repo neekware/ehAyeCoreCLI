@@ -10,6 +10,7 @@ build-dir = ".venv/build"
 name = "core-cli"
 dynamic = ["version"]
 description = "ehAye™ Core CLI - A modular command-line interface framework"
+license = "MIT"
 authors = [
     {name = "Val Neekman", email = "info@neekware.com"}
 ]
